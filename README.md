@@ -2,10 +2,6 @@
 
 This repository is mainly about cleaning, converting and checking LLM training datasets.
 
-## Notebooks
-
-TODO
-
 ## Datasets
 
 New datasets cleaned and created by this project:
