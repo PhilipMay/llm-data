@@ -161,3 +161,4 @@ cython_debug/
 
 # own settings
 .python-version
+data/*.parquet
