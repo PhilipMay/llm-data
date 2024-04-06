@@ -8,7 +8,10 @@ TODO
 
 ## Datasets
 
-TODO
+New datasets cleaned and created by this project:
+
+- [UltraChat-200k-ShareGPT-clean](https://huggingface.co/datasets/PhilipMay/UltraChat-200k-ShareGPT-clean)
+- [Nectar-ShareGPT-clean](https://huggingface.co/datasets/PhilipMay/Nectar-ShareGPT-clean)
 
 ## Licensing
 
